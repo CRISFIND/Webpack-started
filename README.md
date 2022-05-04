@@ -2,4 +2,5 @@
 
 Para usar este repositorio, deberán ejecutar el comando de ```npm install```
 
+Y para reconstruir el build ```npm run build ```
 
